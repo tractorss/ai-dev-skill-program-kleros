@@ -24,7 +24,7 @@ features as stretch goals.
 
 - What actually became possible?
 
-  - While not really tested in this project, I worked on Okiya during last days and the sfx was something that Claude did purely by itself and it gave great results. For the game design, research and panning was handed to Fable (high) and in two turns (after feedback) the result was more than satisfactory. Purely because I had Opus to do a a deep research on game design and physcology around it first and that was fed to Fable when it acted as an advisor and critique on the game.
+  - While not really tested in this project, I worked on Okiya during last days and the sfx was something that Claude did purely by itself and it gave great results. For the game design, research and planning was handed to Fable (high) and in two turns (after feedback) the result was more than satisfactory. Purely because I had Opus to do a deep research on game design and psychology around it first and that was fed to Fable when it acted as an advisor and critique on the game.
   - Another thing that's possible is the workflows, I can construct mine or have the agent first do a research and construct one based on the task size and complexity.
 
 - What still needed my judgment?

@@ -12,7 +12,7 @@ Checked by: acceptance criteria written before each run, held-out cases I ran ma
 
 Unfinished: slices 4 and 5 were never scheduled; sound and animation cut before building the held back case. one of six criteria, and three defects are known and unfixed (invisible wall, player drawn over props, parser rejecting valid geometry)
 
-The accepted result isn't a "game" , it's more of what the project asked and needed to be worked on. A better example of the learnings would be the okiya game that we built on the fly, which was a real ambitous project and turned out great.
+The accepted result isn't a "game" , it's more of what the project asked and needed to be worked on. A better example of the learnings would be the okiya game that we built on the fly, which was a real ambitious project and turned out great.
 
 → `project-brief.md` · `evidence/day-5-routines-and-capstone.md` · `next-steps.md`
 
@@ -24,7 +24,7 @@ I stopped work on this project before because the game itself required substanti
 
 What became possible: implementation stopped being the constraint. Three slices and a held back in a week, alongside a job.
 
-What still needed my judgment: taste,: on Okiya I steered the design and feel with an advisor at high effort and it came out well; here I didn't run it that way, and it passed every criterion while feeling wrong to play. Also the invisible wall, which no automated check could have found. So the acceptance tests should be constructed with that in mind, for UI or things that require taste, I find it better to have the agent run another subagent to do a deep research in that field, for okiya the deep research was around game building and human physchology around games and it paid well, along with the fable as designer/advisor/critique
+What still needed my judgment: taste: on Okiya I steered the design and feel with an advisor at high effort and it came out well; here I didn't run it that way, and it passed every criterion while feeling wrong to play. Also the invisible wall, which no automated check could have found. So the acceptance tests should be constructed with that in mind, for UI or things that require taste, I find it better to have the agent run another subagent to do a deep research in that field, for okiya the deep research was around game building and human psychology around games and it paid well, along with the fable as designer/advisor/critique
 
 What I'll try next: The foreman app for now, which is a personal management system, since we will be transitioning to more of a manager, and If I get leisure time, maybe keep working on cozy valley and find a way to have agent handle the map generation too with actual playablity
 
@@ -68,9 +68,9 @@ This would change depending on more learnings and feedback I get from my own fin
 
 Walking into a hidden location from the north, nothing triggered and nothing showed up, but the player got stopped like something was there. While the map showed empty grass.
 
-It passed all six acceptance criteria, the integrator, and the codex review with its fifteen deliberate breakages. A6c only says whether the _location_ is drawn, it never says anything about the barrier being visible. So the criterion was satisfied and the game was still wrong. This was an issue with the acceptance criteria for the UI, which imo is an open sided task and not really bounded, because we can't define objective taste, it changes based on what the result looks like and needs a human in the loop for feedback. Although Fable as a critque has good taste, as evident from okiya game.
+It passed all six acceptance criteria, the integrator, and the codex review with its fifteen deliberate breakages. A6c only says whether the _location_ is drawn, it never says anything about the barrier being visible. So the criterion was satisfied and the game was still wrong. This was an issue with the acceptance criteria for the UI, which imo is an open sided task and not really bounded, because we can't define objective taste, it changes based on what the result looks like and needs a human in the loop for feedback. Although Fable as a critique has good taste, as evident from okiya game.
 
-Same with the hidden location itself, it shows an empty area in map until it's filled, which isn't really correct since in games, the hidden locaiton is usally gated by bushes/treelines/hidden pathways etc.
+Same with the hidden location itself, it shows an empty area in map until it's filled, which isn't really correct since in games, the hidden location is usually gated by bushes/treelines/hidden pathways etc.
 
 How I caught it: by playing it, from a direction logic had not tested.
 

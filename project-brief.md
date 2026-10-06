@@ -40,7 +40,7 @@ respond.
 ## Reserved for the capstone
 
 One feature, named on day 1 and not looked at until day 5: hidden locations the
-player can discover off the main path, with sound effects and animations
+player can discover off the main path, with sound effects and animations.
 
 Outcome: hidden locations built and accepted at `e800af1`. Sound and animation
 cut deliberately before building, and reported unfinished.

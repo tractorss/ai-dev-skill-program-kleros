@@ -59,7 +59,7 @@ grilling directions, I ran the interview and the interrogation and skipped
 "challenge the design" — the one that asks for failure modes. That's the step that
 exists to catch a criterion like this one.
 
-Also, for open ended projects where taste matters it;s more of a build and then play -> feedback -> build, until we reach the outcome we want. That was what happened with okiya and i reached a really good state with that method. Ofcourse your own taste matters in that area. For more day to day tasks, they would be easier to define an acceptance criteria for, since we know what we need to do there. For ecample with Foresight prediction market, I have really good understanding of it to properly define the criterias, but for ambitious projects like this game or the Manager I am building, it's more of an iteration that we have to do to reach a desired result.
+Also, for open ended projects where taste matters it's more of a build and then play -> feedback -> build, until we reach the outcome we want. That was what happened with okiya and i reached a really good state with that method. Ofcourse your own taste matters in that area. For more day to day tasks, they would be easier to define an acceptance criteria for, since we know what we need to do there. For example with Foresight prediction market, I have really good understanding of it to properly define the criteria, but for ambitious projects like this game or the Manager I am building, it's more of an iteration that we have to do to reach a desired result.
 
 ---
 

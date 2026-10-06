@@ -165,10 +165,10 @@ commits because Bash wasn't in the allowlist — and then set the orchestration 
 as paragraphs.
 
 **Criteria get verified against whichever single instance came to mind.** One
-location, one tick value, one entry direction. Every gap traced back to that. It didn't cover me going from the top of the hidden location and I would get blocked with the mpa showing walkable, and had to enter from a specific direction to unlock the location.
+location, one tick value, one entry direction. Every gap traced back to that. It didn't cover me going from the top of the hidden location and I would get blocked with the map showing walkable, and had to enter from a specific direction to unlock the location.
 
 **The criteria themselves can be the hole.** The invisible wall isn't a bug in the
 code — the code does what the criteria say. The only instrument that finds a hole
 in your criteria is using the thing.
 
-**Taste** still remains on the human, with the okiya game I was the one steering the design, the feel, and the playability of the game, alongside fable working as a design advisor. But here I didn't run it at that effort and was visible. So while it still passed teh criteria, there was a huge difference in the feel of playing the game.
+**Taste** still remains on the human, with the okiya game I was the one steering the design, the feel, and the playability of the game, alongside fable working as a design advisor. But here I didn't run it at that effort and was visible. So while it still passed the criteria, there was a huge difference in the feel of playing the game.

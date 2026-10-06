@@ -31,7 +31,7 @@ sixteen minutes of integration. So:
 
 - **Worth splitting when:** Task has clear boundaries between the splits and there is no reliance from one worker on another. A good example is splitting an app's new feature by logic and UI, and occasionally indexer/subgraph, with their own tests. Followed by an integrator/reviewer/critique/red-team(flaky) depending on the type of task. For other cases, having a quick ask to another agent to get a good split/workflow is usually worth it.
 - **Not worth splitting when:**
-  The tasks is small and bounded, in that case subagents should be more than enough. Or when you need deep research first, that becomes sequential. Bug fixes dont fall under workflow either.
+  The task is small and bounded, in that case subagents should be more than enough. Or when you need deep research first, that becomes sequential. Bug fixes don't fall under workflow either.
 
 ## Required acceptance evidence
 
@@ -51,11 +51,11 @@ Before I accept a change, I need:
 
 ## Concurrency
 
-- **Limit:** **One attentive task with 2-3 side tasks of load cognitive load and complexity** For this I would usually focus on one attentive task at the moment, and with the Foreman app, it would give me tasks that are completely handle-able by an agent and I would assign it to them. The goal is have multiple of those tasks given to the agents on side, with an assistant AI to manage them and I can focus on the tasks that require my attention. And once in a while, I can take a quick look at all the side tasks and approve them. This is still in testing and would improve with the feedback I get from it's implementation. The goal is to build around the mental limits and not try to exhaust myself , which would then make a negative loop.
+- **Limit:** **One attentive task with 2-3 side tasks of low cognitive load and complexity** For this I would usually focus on one attentive task at the moment, and with the Foreman app, it would give me tasks that are completely handle-able by an agent and I would assign it to them. The goal is have multiple of those tasks given to the agents on side, with an assistant AI to manage them and I can focus on the tasks that require my attention. And once in a while, I can take a quick look at all the side tasks and approve them. This is still in testing and would improve with the feedback I get from its implementation. The goal is to build around the mental limits and not try to exhaust myself , which would then make a negative loop.
 - **How I clear pending reviews before starting more:**
-  Two types of reviews here, the one from active sessions I will alrd be in the loop, so it would be easy to review. The one's that will stack will be the on-the-side agents, for them I have a proper format for them to report back in, taken from the report. The assisntant agent would give the first pass as a reviewer. Depending on the task load, it may be assigned a codex reviewer, and then based on task type I will perform quick checks. And mark it reviewed.
+  Two types of reviews here, the one from active sessions I will alrd be in the loop, so it would be easy to review. The ones that will stack will be the on-the-side agents, for them I have a proper format for them to report back in, taken from the report. The assistant agent would give the first pass as a reviewer. Depending on the task load, it may be assigned a codex reviewer, and then based on task type I will perform quick checks. And mark it reviewed.
 
 ## Weekly maintenance
 
-- What I check: Session costs, mental check-in (how much am I actually understanding of what I'm shipping), engram santization, memory sanitization, what am I repeating (to create a skill or workflow), New tools or optimization techniques, new model capabilities and effort level reasses, findings unique to one reviewer versus shared misses.
+- What I check: Session costs, mental check-in (how much am I actually understanding of what I'm shipping), engram sanitization, memory sanitization, what am I repeating (to create a skill or workflow), New tools or optimization techniques, new model capabilities and effort level reassess, findings unique to one reviewer versus shared misses.
 - **Next review date:** 25 Oct 2026
